@@ -1,0 +1,4 @@
+vim is a built in editor
+support multiple forms (extension)
+faster to create and edit files
+server doesnt have gui 
